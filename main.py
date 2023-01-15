@@ -51,7 +51,6 @@ conn.close()
 
 # # Wait for an incoming SMS message
 # message = modem.waitForSms(10)
-
 # message = modem.listStoredSms()
 
 # for m in message:
